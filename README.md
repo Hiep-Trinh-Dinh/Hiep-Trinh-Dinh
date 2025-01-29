@@ -40,10 +40,10 @@ I'm passionate about creating exceptional web experiences and solving complex pr
 - 🚀 Successfully delivered 50+ web applications
 - 📚 Regular contributor to open-source projects
 
-## 📊 GitHub Stats & Reviews
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hip&show_icons=true&theme=radical" alt="Hip's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hip&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true&custom_title=Hip's%20GitHub%20Stats%20(Grade%20A)" alt="Hip's GitHub stats" />
 </p>
 
 <p align="center">
@@ -51,18 +51,14 @@ I'm passionate about creating exceptional web experiences and solving complex pr
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rating-A%2B-brightgreen?style=for-the-badge" alt="A+ Rating" />
-  <img src="https://img.shields.io/badge/Reviews-5.0%20⭐️-yellow?style=for-the-badge" alt="5.0 Star Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hip&theme=radical&row=1&column=6" alt="trophy" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
 
-## 🔥 Top Languages (MERN Stack)
+## 🔥 Top Languages (MERN Stack Focus)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hip&layout=compact&theme=radical&hide=html,css&langs_count=6" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hip&layout=compact&theme=radical&hide=html,css&langs_count=6" alt="Top Langs" />
 </p>
 
 <p align="center">
