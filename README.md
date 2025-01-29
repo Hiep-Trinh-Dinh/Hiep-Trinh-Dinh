@@ -70,22 +70,7 @@ I'm passionate about creating exceptional web experiences and solving complex pr
   </a>
 </p>
 
-## 📌 Pinned Repositories
 
-<p align="center">
-  <a href="https://github.com/hip/awesome-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hip&repo=awesome-project&theme=radical" />
-  </a>
-  <a href="https://github.com/hip/cool-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hip&repo=cool-app&theme=radical" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hip/count.svg" alt="Visitor Count" />
-</div>
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
