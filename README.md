@@ -40,46 +40,29 @@ I'm passionate about creating exceptional web experiences and solving complex pr
 - 🚀 Successfully delivered 50+ web applications
 - 📚 Regular contributor to open-source projects
 
-## 📊 GitHub Stats & Reviews
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hip&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true&custom_title=Hip's%20GitHub%20Stats%20(Grade%20A)" alt="Hip's GitHub stats" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=hip&show_icons=true&theme=dark&hide_rank=true&custom_title=Hip%27s%20GitHub%20Stats%20%28Rated%20A%29"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=hip&show_icons=true&hide_rank=true&custom_title=Hip%27s%20GitHub%20Stats%20%28Rated%20A%29"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=hip&show_icons=true&hide_rank=true&custom_title=Hip%27s%20GitHub%20Stats%20%28Rated%20A%29" alt="Hip's GitHub stats" />
+  </picture>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hip&theme=radical" alt="Hip's GitHub streak" />
 </p>
 
-### 🌟 Developer Reviews
-
 <p align="center">
-  <img src="https://img.shields.io/badge/5.0%20★★★★★-brightgreen?style=for-the-badge" alt="5.0 Star Rating" />
-  <img src="https://img.shields.io/badge/100%25-Satisfaction-blue?style=for-the-badge" alt="100% Satisfaction" />
+  <img src="https://img.shields.io/badge/GitHub_Grade-A-brightgreen?style=for-the-badge" alt="GitHub Grade A" />
 </p>
-
-<table>
-  <tr>
-    <th>Client</th>
-    <th>Review</th>
-  </tr>
-  <tr>
-    <td><strong>TechCorp</strong></td>
-    <td>"Hip delivered an outstanding web application. Their expertise in the MERN stack is unparalleled. Highly recommended!"</td>
-  </tr>
-  <tr>
-    <td><strong>InnovateSoft</strong></td>
-    <td>"Working with Hip was a breeze. They consistently delivered high-quality code and met all our deadlines. A true professional!"</td>
-  </tr>
-  <tr>
-    <td><strong>WebSolutions Inc.</strong></td>
-    <td>"Hip's problem-solving skills are top-notch. They tackled complex issues with ease and always kept us informed. Will definitely work with them again!"</td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hip&theme=radical&row=1&column=6" alt="trophy" />
-</p>
-
 
 ## 🔥 Top Languages (MERN Stack Focus)
 
@@ -98,7 +81,6 @@ I'm passionate about creating exceptional web experiences and solving complex pr
   <img src="https://github-profile-trophy.vercel.app/?username=hip&theme=radical&row=1&column=6" alt="trophy" />
 </p>
 
-
 ## 📫 Get in Touch
 
 <p align="center">
@@ -112,7 +94,6 @@ I'm passionate about creating exceptional web experiences and solving complex pr
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
