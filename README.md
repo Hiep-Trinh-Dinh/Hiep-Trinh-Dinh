@@ -18,7 +18,7 @@ I'm passionate about creating exceptional web experiences and solving complex pr
 - 🌱 I'm currently learning **AI and Machine Learning**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, and full-stack development**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+- ⚡ Fun fact: **I can solve a Rubik's cube under 2 minutes!**
 
 ## 🛠️ Skills
 
@@ -42,44 +42,94 @@ I'm passionate about creating exceptional web experiences and solving complex pr
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=hip&show_icons=true&theme=dark&hide_rank=true&custom_title=Hip%27s%20GitHub%20Stats%20%28Rated%20A%29"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=hip&show_icons=true&hide_rank=true&custom_title=Hip%27s%20GitHub%20Stats%20%28Rated%20A%29"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=hip&show_icons=true&hide_rank=true&custom_title=Hip%27s%20GitHub%20Stats%20%28Rated%20A%29" alt="Hip's GitHub stats" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hip&theme=radical" alt="Hip's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Grade-A-brightgreen?style=for-the-badge" alt="GitHub Grade A" />
-</p>
-
-## 🔥 Top Languages (MERN Stack Focus)
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hip&layout=compact&theme=radical&hide=html,css&langs_count=6" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hip&theme=radical&row=1&column=6" alt="trophy" />
-</p>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px; padding: 20px; background-color: #0d1117;">
+  <div style="display: flex; flex-direction: row; gap: 20px; width: 100%; max-width: 800px;">
+    <!-- Stats Card -->
+    <div style="flex: 1; background-color: #1a1b26; border: 1px solid #2d2f3d; border-radius: 8px; padding: 20px; color: white;">
+      <h2 style="color: #ff79c6; font-size: 1.2em; margin-bottom: 15px;">Hip's GitHub Stats</h2>
+      <div style="display: flex;">
+        <div style="flex: 1;">
+          <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 10px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#6272a4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+            <span style="color: #6272a4;">Total Stars Earned:</span>
+            <span style="margin-left: auto;">2k</span>
+          </div>
+          <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 10px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#6272a4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+            <span style="color: #6272a4;">Total Commits:</span>
+            <span style="margin-left: auto;">5.4k</span>
+          </div>
+          <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 10px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#6272a4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="18" r="3"></circle><circle cx="6" cy="6" r="3"></circle><path d="M13 6h3a2 2 0 0 1 2 2v7"></path><line x1="6" y1="9" x2="6" y2="21"></line></svg>
+            <span style="color: #6272a4;">Total PRs:</span>
+            <span style="margin-left: auto;">53</span>
+          </div>
+          <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 10px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#6272a4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="1"></circle></svg>
+            <span style="color: #6272a4;">Total Issues:</span>
+            <span style="margin-left: auto;">23</span>
+          </div>
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#6272a4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="6" y1="3" x2="6" y2="15"></line><circle cx="18" cy="6" r="3"></circle><circle cx="6" cy="18" r="3"></circle><path d="M18 9a9 9 0 0 1-9 9"></path></svg>
+            <span style="color: #6272a4;">Contributed to (last year):</span>
+            <span style="margin-left: auto;">2</span>
+          </div>
+        </div>
+        <div style="margin-left: 30px; display: flex; align-items: center; justify-content: center;">
+          <div style="position: relative; width: 100px; height: 100px;">
+            <svg width="100" height="100" viewBox="0 0 100 100">
+              <circle cx="50" cy="50" r="42" fill="transparent" stroke="#2d2f3d" stroke-width="8"></circle>
+              <circle cx="50" cy="50" r="42" fill="transparent" stroke="#ff79c6" stroke-width="8" stroke-dasharray="264, 264" stroke-dashoffset="66" stroke-linecap="round"></circle>
+            </svg>
+            <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 2em; font-weight: bold; color: white;">
+              A
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Languages Card -->
+    <div style="flex: 1; background-color: #1a1b26; border: 1px solid #2d2f3d; border-radius: 8px; padding: 20px; color: white;">
+      <h2 style="color: #ff79c6; font-size: 1.2em; margin-bottom: 15px;">Most Used Languages</h2>
+      <div>
+        <div style="height: 16px; display: flex; border-radius: 8px; overflow: hidden; margin-bottom: 20px;">
+          <div style="width: 71.16%; background-color: #007acc;" title="TypeScript 71.16%"></div>
+          <div style="width: 22.39%; background-color: #f1e05a;" title="JavaScript 22.39%"></div>
+          <div style="width: 2.50%; background-color: #c6538c;" title="SCSS 2.50%"></div>
+          <div style="width: 1.99%; background-color: #00add8;" title="Go 1.99%"></div>
+          <div style="width: 1.96%; background-color: #e34c26;" title="HTML 1.96%"></div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; font-size: 0.9em;">
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <span style="width: 12px; height: 12px; border-radius: 50%; background-color: #007acc;"></span>
+            <span style="color: #6272a4;">TypeScript</span>
+            <span style="margin-left: auto;">71.16%</span>
+          </div>
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <span style="width: 12px; height: 12px; border-radius: 50%; background-color: #f1e05a;"></span>
+            <span style="color: #6272a4;">JavaScript</span>
+            <span style="margin-left: auto;">22.39%</span>
+          </div>
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <span style="width: 12px; height: 12px; border-radius: 50%; background-color: #c6538c;"></span>
+            <span style="color: #6272a4;">SCSS</span>
+            <span style="margin-left: auto;">2.50%</span>
+          </div>
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <span style="width: 12px; height: 12px; border-radius: 50%; background-color: #00add8;"></span>
+            <span style="color: #6272a4;">Go</span>
+            <span style="margin-left: auto;">1.99%</span>
+          </div>
+          <div style="display: flex; align-items: center; gap: 8px;">
+            <span style="width: 12px; height: 12px; border-radius: 50%; background-color: #e34c26;"></span>
+            <span style="color: #6272a4;">HTML</span>
+            <span style="margin-left: auto;">1.96%</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## 📫 Get in Touch
 
@@ -94,6 +144,7 @@ I'm passionate about creating exceptional web experiences and solving complex pr
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
