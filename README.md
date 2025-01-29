@@ -40,7 +40,7 @@ I'm passionate about creating exceptional web experiences and solving complex pr
 - 🚀 Successfully delivered 50+ web applications
 - 📚 Regular contributor to open-source projects
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Reviews
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hip&show_icons=true&theme=radical" alt="Hip's GitHub stats" />
@@ -50,11 +50,32 @@ I'm passionate about creating exceptional web experiences and solving complex pr
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hip&theme=radical" alt="Hip's GitHub streak" />
 </p>
 
-## 🔥 Top Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Rating-A%2B-brightgreen?style=for-the-badge" alt="A+ Rating" />
+  <img src="https://img.shields.io/badge/Reviews-5.0%20⭐️-yellow?style=for-the-badge" alt="5.0 Star Reviews" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hip&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
+
+## 🔥 Top Languages (MERN Stack)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hip&layout=compact&theme=radical&hide=html,css&langs_count=6" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hip&theme=radical&row=1&column=6" alt="trophy" />
+</p>
+
 
 ## 📫 Get in Touch
 
@@ -69,7 +90,6 @@ I'm passionate about creating exceptional web experiences and solving complex pr
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
 
 
 <div align="center">
